@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-basic-sample/static/js/main.cfacf344.js",
+    "index.html": "/react-basic-sample/index.html",
+    "main.cfacf344.js.map": "/react-basic-sample/static/js/main.cfacf344.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cfacf344.js"
+  ]
+}
